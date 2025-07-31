@@ -217,7 +217,7 @@ The roadmap for this topic is based on the book ["Computational Geometry" by Jos
 ### Digital Filters
 The roadmap for this topic is based on the book ["Digital Filter Designer's Handbook" by C. Britton Rorabaugh](https://cdn.preterhuman.net/texts/engineering/Dsp/Digital%20Filter%20Designer%27S%20Handbook.pdf).
 
-- [ ] Fillter Fundamentals
+- [ ] Filter Fundamentals
 - [ ] Butterworth Filters
 - [ ] Chebyshev Filters
 - [ ] Elliptical Filters
