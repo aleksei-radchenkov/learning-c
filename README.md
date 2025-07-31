@@ -29,7 +29,7 @@ Welcome to my Learning C repository. This is where I will document my journey in
   + [Online Courses and Tutorials](#online-courses-and-tutorials)
   + [Docs & References](#docs--references)
 - [Coding Problems](#coding-problems)
-- [Projects](#projects-table)
+- [Projects](#projects-showcase)
 
 ---
 
@@ -364,7 +364,7 @@ A list of learning resources I frequently use on my journey.
 
 ---
 
-## Projects {#projects-table}
+## Projects Showcase
 
 | Project | Description | Status |
 |---------|-------------|--------|
