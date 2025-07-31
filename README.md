@@ -301,11 +301,26 @@ A list of learning resources I frequently use on my journey.
 - [X] [Sololearn's C Intermediate](https://www.sololearn.com/en/learn/courses/c-intermediate) - [Certificate](https://www.sololearn.com/certificates/CC-ZQBFDA0D)
 
 ### Docs & References
+
 - [C Reference](https://en.cppreference.com/w/c.html)
 - [Raylib Reference](https://www.raylib.com/) (GUI Library)
 
 ## Coding Problems
-- [ ] TODO
+
+- [ ] [LeetCode](./practice/leetcode/) - [Profile](https://leetcode.com/u/Aleksei_Radchenkov/)
+    * EASY: 0/886
+    * MED.: 0/1889
+    * HARD: 0/857
+    * [ ] [Bit Manipulation](./practice/leetcode/bit_manipulation/):
+        + EASY: 0/48
+        + MED.: 0/116
+        + HARD: 0/83
+        + [ ] [Add Binary](./practice/leetcode/bit_manipulation/easy/add_binary/) | EASY
+        + [ ] [Single Number](./practice/leetcode/bit_manipulation/easy/single_number/) | EASY
+        + [ ] [Reverse Bits](./practice/leetcode/bit_manipulation/easy/reverse_bits/) | EASY
+        + [ ] [Number of 1 Bits](./practice/leetcode/bit_manipulation/easy/number_of_1_bits/) | EASY
+        + [ ] [Count Complete Tree Nodes](./practice/leetcode/bit_manipulation/easy/count_complete_tree_nodes/) | EASY
+        + [ ] [Power of Two](./practice/leetcode/bit_manipulation/easy/power_of_two/) | EASY
 
 ## Projects
 
