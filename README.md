@@ -364,7 +364,7 @@ A list of learning resources I frequently use on my journey.
 
 ---
 
-## Projects
+## Projects {#projects-table}
 
 | Project | Description | Status |
 |---------|-------------|--------|
