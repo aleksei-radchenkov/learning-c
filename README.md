@@ -3,6 +3,36 @@ Welcome to my Learning C repository. This is where I will document my journey in
 
 ---
 
+## Contents
+- [Personal Rules & Guidelines](#personal-rules--guidelines)
+  + [Tools](#tools)
+  + [AI Usage](#ai-usage)
+  + [Learning Approach](#learning-approach)
+  + [Projects](#projects)
+- [Roadmap](#roadmap)
+  + [Formal Education](#formal-education)
+  + [Interfaces](#interfaces)
+  + [Algorithms](#algorithms)
+  + [Compilers](#compilers)
+  + [Linux System Programming](#linux-system-programming)
+  + [TCP/IP Sockets](#tcpip-sockets)
+  + [Cryptography & Protocols](#cryptography--protocols)
+  + [Image Processing](#image-processing)
+  + [Computational Geometry](#computational-geometry)
+  + [Digital Filters](#digital-filters)
+  + [Embedded Systems](#embedded-systems)
+  + [Parallel Computing](#parallel-computing)
+- [Repository Structure](#repository-structure)
+- [Progress Log](#progress-log)
+- [Resources](#resources)
+  + [Books](#books)
+  + [Online Courses and Tutorials](#online-courses-and-tutorials)
+  + [Docs & References](#docs--references)
+- [Coding Problems](#coding-problems)
+- [Projects](#projects-table)
+
+---
+
 ##  Personal Rules & Guidelines
 To stay focused, build deeper understanding, and avoid shortcuts that hurt my long-term improvement, I’m following the following rules:
 
@@ -33,6 +63,8 @@ To stay focused, build deeper understanding, and avoid shortcuts that hurt my lo
 - Any code marked as a project must be appropriately linted, commented, and documented.
 - All project code must have some error handling and testing.
 - Any commits associated with projects must have appropriate commit messages, describing exactly what was changed and learned.
+
+---
 
 ## Roadmap
 Each topic on the roadmap is independent and does not act as a prerequisite for any other topic. So I will often swap between different sections of this roadmap on my journey.
@@ -254,6 +286,8 @@ The roadmap for this topic is based on the book ["Introduction to Parallel Compu
 - [ ] Multiple Instruction, Multiple Data
 - [ ] Project - Parallel DNA Sequence Alignment Tool
 
+---
+
 ## Repository Structure
 - [`/resources/`](./resources) - Books, study notes, roadmaps and other learning resources.
 - [`/projects/`](./projects/) - Mini-projects and real-world applications. (Bigger projects will be placed in their own repositories and linked here.)
@@ -261,12 +295,16 @@ The roadmap for this topic is based on the book ["Introduction to Parallel Compu
 - [`/notes/`](./notes/) - Personal study notes, summaries, and references.
 - [`/diary/`](./diary/) - Personal progress updates, reflections and goals.
 
+---
+
 ## Progress Log
 A summary log of what I'm learning over time.
 
 | Date | Topic/Task | Notes |
 |------|------------|-------|
 | 2025-07-30 | Started the repository | Initialised the repo |
+
+---
 
 ## Resources
 A list of learning resources I frequently use on my journey.
@@ -305,6 +343,8 @@ A list of learning resources I frequently use on my journey.
 - [C Reference](https://en.cppreference.com/w/c.html)
 - [Raylib Reference](https://www.raylib.com/) (GUI Library)
 
+---
+
 ## Coding Problems
 
 - [ ] [LeetCode](./practice/leetcode/) - [Profile](https://leetcode.com/u/Aleksei_Radchenkov/)
@@ -321,6 +361,8 @@ A list of learning resources I frequently use on my journey.
         + [ ] [Number of 1 Bits](./practice/leetcode/bit_manipulation/easy/number_of_1_bits/) | EASY
         + [ ] [Count Complete Tree Nodes](./practice/leetcode/bit_manipulation/easy/count_complete_tree_nodes/) | EASY
         + [ ] [Power of Two](./practice/leetcode/bit_manipulation/easy/power_of_two/) | EASY
+
+---
 
 ## Projects
 
