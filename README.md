@@ -1,4 +1,4 @@
-# Learning C - My Journey into C Programming
+G# Learning C - My Journey into C Programming
 Welcome to my Learning C repository. This is where I will document my journey into C programming throughout the years, from the basics to more advanced concepts. Here, you'll find resources I'm using, books I read, projects I'm building, problems I'm solving, challenges I face, and my progress notes.
 
 ---
@@ -352,15 +352,15 @@ A list of learning resources I frequently use on my journey.
     * MED.: 0/1889
     * HARD: 0/857
     * [ ] [Bit Manipulation](./practice/leetcode/bit_manipulation/):
-        + EASY: 0/48
+        + EASY: 2/48
         + MED.: 0/116
         + HARD: 0/83
-        + [ ] [Add Binary](./practice/leetcode/bit_manipulation/easy/add_binary/) | EASY
-        + [ ] [Single Number](./practice/leetcode/bit_manipulation/easy/single_number/) | EASY
-        + [ ] [Reverse Bits](./practice/leetcode/bit_manipulation/easy/reverse_bits/) | EASY
-        + [ ] [Number of 1 Bits](./practice/leetcode/bit_manipulation/easy/number_of_1_bits/) | EASY
-        + [ ] [Count Complete Tree Nodes](./practice/leetcode/bit_manipulation/easy/count_complete_tree_nodes/) | EASY
-        + [ ] [Power of Two](./practice/leetcode/bit_manipulation/easy/power_of_two/) | EASY
+        + [ ] [67. Add Binary](./practice/leetcode/bit_manipulation/easy/add_binary/) | EASY
+        + [ ] [136. Single Number](./practice/leetcode/bit_manipulation/easy/single_number/) | EASY
+        + [X] [190. Reverse Bits](./practice/leetcode/bit_manipulation/easy/reverse_bits/) | EASY
+        + [ ] [191. Number of 1 Bits](./practice/leetcode/bit_manipulation/easy/number_of_1_bits/) | EASY
+        + [ ] [222. Count Complete Tree Nodes](./practice/leetcode/bit_manipulation/easy/count_complete_tree_nodes/) | EASY
+        + [X] [231. Power of Two](./practice/leetcode/bit_manipulation/easy/power_of_two/) | EASY
 
 ---
 
