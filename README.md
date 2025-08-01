@@ -303,6 +303,7 @@ A summary log of what I'm learning over time.
 | Date | Topic/Task | Notes |
 |------|------------|-------|
 | 2025-07-30 | Started the repository | Initialised the repo |
+| 2025-08-01 -> Current | Coding Problems - LeetCode | Solving bit manipulation problems on LeetCode |
 
 ---
 
