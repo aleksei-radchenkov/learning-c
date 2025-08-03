@@ -2,22 +2,22 @@
 #include <assert.h>
 #include <stdbool.h>
 
-bool isPowerOfTwo(int n)
+int hammingWeight(int n)
 {
-    int c=0;
+    int c = 0;
     for (int i=0; i<sizeof(int)*8; i++) if ((n >> i) & 1) c++;
-    return c == 1 && n > 0;
+    return c;
 }
 
 int main()
 {
-    assert(isPowerOfTwo(1) == true);
+    assert(hammingWeight(11) == 3);
     printf("\nTest 1: PASS\n");
 
-    assert(isPowerOfTwo(16) == true);
+    assert(hammingWeight(128) == 1);
     printf("Test 2: PASS\n");
 
-    assert(isPowerOfTwo(3) == false);
+    assert(hammingWeight(2147483645) == 30);
     printf("Test 3: PASS\n\n");
 
     printf("Success!\n");

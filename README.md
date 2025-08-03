@@ -357,9 +357,9 @@ A list of learning resources I frequently use on my journey.
         + MED.: 0/116
         + HARD: 0/83
         + [ ] [67. Add Binary](./practice/leetcode/bit_manipulation/easy/add_binary/) | EASY
-        + [ ] [136. Single Number](./practice/leetcode/bit_manipulation/easy/single_number/) | EASY
+        + [X] [136. Single Number](./practice/leetcode/bit_manipulation/easy/single_number/) | EASY
         + [X] [190. Reverse Bits](./practice/leetcode/bit_manipulation/easy/reverse_bits/) | EASY
-        + [ ] [191. Number of 1 Bits](./practice/leetcode/bit_manipulation/easy/number_of_1_bits/) | EASY
+        + [X] [191. Number of 1 Bits](./practice/leetcode/bit_manipulation/easy/number_of_1_bits/) | EASY
         + [ ] [222. Count Complete Tree Nodes](./practice/leetcode/bit_manipulation/easy/count_complete_tree_nodes/) | EASY
         + [X] [231. Power of Two](./practice/leetcode/bit_manipulation/easy/power_of_two/) | EASY
 
