@@ -349,14 +349,14 @@ A list of learning resources I frequently use on my journey.
 ## Coding Problems
 
 - [ ] [LeetCode](./practice/leetcode/) - [Profile](https://leetcode.com/u/Aleksei_Radchenkov/)
-    * EASY: 0/886
+    * EASY: 5/886
     * MED.: 0/1889
     * HARD: 0/857
     * [ ] [Bit Manipulation](./practice/leetcode/bit_manipulation/):
-        + EASY: 2/48
+        + EASY: 5/48
         + MED.: 0/116
         + HARD: 0/83
-        + [ ] [67. Add Binary](./practice/leetcode/bit_manipulation/easy/add_binary/) | EASY
+        + [X] [67. Add Binary](./practice/leetcode/bit_manipulation/easy/add_binary/) | EASY
         + [X] [136. Single Number](./practice/leetcode/bit_manipulation/easy/single_number/) | EASY
         + [X] [190. Reverse Bits](./practice/leetcode/bit_manipulation/easy/reverse_bits/) | EASY
         + [X] [191. Number of 1 Bits](./practice/leetcode/bit_manipulation/easy/number_of_1_bits/) | EASY
