@@ -1,4 +1,4 @@
-G# Learning C - My Journey into C Programming
+# Learning C - My Journey into C Programming
 Welcome to my Learning C repository. This is where I will document my journey into C programming throughout the years, from the basics to more advanced concepts. Here, you'll find resources I'm using, books I read, projects I'm building, problems I'm solving, challenges I face, and my progress notes.
 
 ---
