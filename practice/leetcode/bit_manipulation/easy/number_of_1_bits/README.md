@@ -1,5 +1,7 @@
 # 191. Number of 1 Bits
 
+**[Solution](./solution.c) - [Notes](./notes.md)**
+
 **Difficulty:** Easy  
 
 ---

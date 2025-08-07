@@ -1,5 +1,7 @@
 # 222. Count Complete Tree Nodes
 
+**[Solution](./solution.c) - [Notes](./notes.md)**
+
 **Difficulty:** Easy  
 
 ---

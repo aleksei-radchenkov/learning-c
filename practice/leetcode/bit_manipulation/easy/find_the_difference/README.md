@@ -1,5 +1,7 @@
 # 389. Find the Difference
 
+**[Solution](./solution.c) - [Notes](./notes.md)**
+
 ## Description
 You are given two strings `s` and `t`.
 

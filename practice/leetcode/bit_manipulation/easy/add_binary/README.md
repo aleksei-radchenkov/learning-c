@@ -1,5 +1,7 @@
 # 67. Add Binary
 
+**[Solution](./solution.c) - [Notes](./notes.md)**
+
 **Difficulty:** Easy  
 
 ---

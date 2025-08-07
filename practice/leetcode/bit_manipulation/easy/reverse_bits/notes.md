@@ -5,11 +5,14 @@ The problem is similar to reversing a string; we need to go through every charac
 I solved this problem by iterating through every bit of the number, setting the right-most bit of the new integer to the value of the right-most bit of the input integer on every iteration. To reverse the order of bits in this process, I shift the two numbers in opposite directions. The input value is shifted to the right, to get a higher-positioned bit on every iteration, and the new integer is shifted left, to make space for new bits.
 
 # Complexity
-- Time complexity:
-O(1)
+- Time complexity (algorithmic):
+$$O(Log(n))$$
+
+- Time complexity (practical):
+$$O(1)$$
 
 - Space complexity:
-O(1)
+$$O(1)$$
 
 # Code
 ```c

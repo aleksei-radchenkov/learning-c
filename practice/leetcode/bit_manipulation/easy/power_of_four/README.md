@@ -1,5 +1,7 @@
 # 342. Power of Four
 
+**[Solution](./solution.c) - [Notes](./notes.md)**
+
 ## Description
 Given an integer `n`, return `true` if it is a power of four. Otherwise, return `false`.
 

@@ -1,5 +1,7 @@
 # 231. Power of Two
 
+**[Solution](./solution.c) - [Notes](./notes.md)**
+
 **Difficulty:** Easy  
 
 ---

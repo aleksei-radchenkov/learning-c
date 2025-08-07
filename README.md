@@ -349,11 +349,11 @@ A list of learning resources I frequently use on my journey.
 ## Coding Problems
 
 - [ ] [LeetCode](./practice/leetcode/) - [Profile](https://leetcode.com/u/Aleksei_Radchenkov/)
-    * EASY: 7/886
+    * EASY: 8/886
     * MED.: 0/1889
     * HARD: 0/857
     * [ ] [Bit Manipulation](./practice/leetcode/bit_manipulation/):
-        + EASY: 7/48
+        + EASY: 8/48
         + MED.: 0/116
         + HARD: 0/83
         + [X] [67. Add Binary](./practice/leetcode/bit_manipulation/easy/add_binary/) | EASY
@@ -365,7 +365,7 @@ A list of learning resources I frequently use on my journey.
         + [ ] [268. Missing Number](./practice/leetcode/bit_manipulation/easy/missing_number) | EASY
         + [X] [338. Counting Bits](./practice/leetcode/bit_manipulation/easy/counting_bits) | EASY
         + [X] [342. Power of Four](./practice/leetcode/bit_manipulation/easy/power_of_four) | EASY
-        + [ ] [389. Find the Difference](./practice/leetcode/bit_manipulation/easy/find_the_difference) | EASY
+        + [X] [389. Find the Difference](./practice/leetcode/bit_manipulation/easy/find_the_difference) | EASY
         + [ ] [401. Binary Watch](./practice/leetcode/bit_manipulation/easy/binary_watch) | EASY
         + [ ] [405. Convert a Number to Hexadecimal](./practice/leetcode/bit_manipulation/easy/convert_a_number_to_hexadecimal) | EASY
         + [ ] [461. Hamming Distance](./practice/leetcode/bit_manipulation/easy/hamming_distance) | EASY

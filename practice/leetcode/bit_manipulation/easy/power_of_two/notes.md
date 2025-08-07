@@ -5,11 +5,14 @@ The initial thought was that in binary representation, every set bit represents 
 I solve this problem by iterating through every bit of the number and using binary manipulation to count how many set bits there are. Since the system is binary, only the numbers with a single set bit are powers of two.
 
 # Complexity
-- Time complexity:
-O(1)
+- Time complexity (algorithmic):
+$$O(Log(n))$$
+
+- Time complexity (practical):
+$$O(1)$$
 
 - Space complexity:
-O(1)
+$$O(1)$$
 
 # Code
 ```c

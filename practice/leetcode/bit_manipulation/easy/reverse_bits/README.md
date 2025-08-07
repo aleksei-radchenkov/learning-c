@@ -1,5 +1,7 @@
 # 190. Reverse Bits
 
+**[Solution](./solution.c) - [Notes](./notes.md)**
+
 **Difficulty:** Easy  
 
 ---

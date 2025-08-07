@@ -1,5 +1,7 @@
 # 693. Binary Number with Alternating Bits
 
+**[Solution](./solution.c) - [Notes](./notes.md)**
+
 ## Description
 Given a positive integer `n`, check whether it has alternating bits: if two adjacent bits always have different values.
 

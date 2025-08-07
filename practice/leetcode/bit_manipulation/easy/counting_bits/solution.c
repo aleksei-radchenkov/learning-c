@@ -2,9 +2,9 @@
 #include <stdlib.h>
 #include <assert.h>
 
-int* countBits(int n, int* returnSize) {
-    n++;
-    int *arr = malloc(sizeof(int) * n);
+int *countBits(int n, int *returnSize)
+{
+    int *arr = malloc(sizeof(int) * (++n));
     *returnSize = n;
 
     arr[0] = 0;

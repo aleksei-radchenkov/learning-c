@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <assert.h>
 
-int missingNumber(int* nums, int numsSize)
+int missingNumber(int *nums, int numsSize)
 {
 }
 
@@ -12,13 +12,13 @@ int main()
     int nums3[] = {9, 6, 4, 2, 3, 5, 7, 0, 1};
 
     assert(missingNumber(nums1, 3) == 2);
-    printf("Test 1: PASS\n");
+    printf("\nTest 1: PASS\n");
 
     assert(missingNumber(nums2, 2) == 2);
     printf("Test 2: PASS\n");
 
     assert(missingNumber(nums3, 9) == 8);
-    printf("Test 3: PASS\n");
+    printf("Test 3: PASS\n\n");
 
     printf("Success!\n");
 

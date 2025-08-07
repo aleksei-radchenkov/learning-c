@@ -1,5 +1,7 @@
 # 476. Number Complement
 
+**[Solution](./solution.c) - [Notes](./notes.md)**
+
 ## Description
 The complement of an integer is obtained by flipping all the 0's to 1's and all the 1's to 0's in its binary representation.
 

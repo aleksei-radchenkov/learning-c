@@ -5,11 +5,14 @@ We can count the number of bits by using a binary AND operator on each bit of th
 I solve this problem by iterating through every bit of the number and extracting the right-most bits using binary AND. I then shift the number to the right to access the next bit.
 
 # Complexity
-- Time complexity:
-O(1)
+- Time complexity (algorithmic):
+$$O(Log(n))$$
+
+- Time complexity (practical):
+$$O(1)$$
 
 - Space complexity:
-O(1)
+$$O(1)$$
 
 # Code
 ```c

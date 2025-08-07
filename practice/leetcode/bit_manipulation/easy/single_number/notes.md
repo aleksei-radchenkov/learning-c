@@ -6,19 +6,17 @@ To solve this problem, I iterate through the array, XORing each number together.
 
 # Complexity
 - Time complexity:
-O(n)
+$$O(n)$$
 
 - Space complexity:
-O(1)
+$$O(1)$$
 
 # Code
 ```c
-int singleNumber(int* nums, int numsSize)
+int singleNumber(int *nums, int numsSize)
 {
     int n = 0;
-    for (int i = 0; i < numsSize; i++){
-        n ^= nums[i];
-    }
+    for (int i = 0; i < numsSize; i++) n ^= nums[i];
     return n;
 }
 ```

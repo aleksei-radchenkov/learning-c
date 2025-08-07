@@ -1,5 +1,7 @@
 # 645. Set Mismatch
 
+**[Solution](./solution.c) - [Notes](./notes.md)**
+
 ## Description
 You have a set of integers `s`, which originally contained all numbers from `1` to `n`. Due to an error, one number was duplicated and another went missing.
 

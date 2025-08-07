@@ -1,5 +1,7 @@
 # 136. Single Number
 
+**[Solution](./solution.c) - [Notes](./notes.md)**
+
 **Difficulty:** Easy  
 
 ---

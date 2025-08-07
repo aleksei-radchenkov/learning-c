@@ -6,14 +6,15 @@ My solution for this problem also improves on the "Power of Two". Instead of ite
 
 # Complexity
 - Time complexity:
-O(1)
+$$O(1)$$
 
 - Space complexity:
-O(1)
+$$O(1)$$
 
 # Code
 ```c
-bool isPowerOfFour(int n) {
+bool isPowerOfFour(int n)
+{
     return (n > 0) && !(n & (n-1)) && (n & 0x55555555);
 }
 ```
