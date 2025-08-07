@@ -349,11 +349,11 @@ A list of learning resources I frequently use on my journey.
 ## Coding Problems
 
 - [ ] [LeetCode](./practice/leetcode/) - [Profile](https://leetcode.com/u/Aleksei_Radchenkov/)
-    * EASY: 10/886
+    * EASY: 12/886
     * MED.: 0/1889
     * HARD: 0/857
     * [ ] [Bit Manipulation](./practice/leetcode/bit_manipulation/):
-        + EASY: 10/48
+        + EASY: 12/48
         + MED.: 0/116
         + HARD: 0/83
         + [X] [67. Add Binary](./practice/leetcode/bit_manipulation/easy/add_binary/) | EASY
@@ -369,7 +369,7 @@ A list of learning resources I frequently use on my journey.
         + [ ] [401. Binary Watch](./practice/leetcode/bit_manipulation/easy/binary_watch) | EASY
         + [ ] [405. Convert a Number to Hexadecimal](./practice/leetcode/bit_manipulation/easy/convert_a_number_to_hexadecimal) | EASY
         + [X] [461/2220. Hamming Distance](./practice/leetcode/bit_manipulation/easy/hamming_distance) | EASY
-        + [ ] [476/1009. Number Complement](./practice/leetcode/bit_manipulation/easy/number_complement) | EASY
+        + [X] [476/1009. Number Complement](./practice/leetcode/bit_manipulation/easy/number_complement) | EASY
         + [ ] [645. Set Mismatch](./practice/leetcode/bit_manipulation/easy/set_mismatch) | EASY
         + [ ] [693. Binary Number with Alternating Bits](./practice/leetcode/bit_manipulation/easy/binary_number_with_alternating_bits) | EASY
 
