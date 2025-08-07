@@ -348,9 +348,10 @@ A list of learning resources I frequently use on my journey.
 
 ## Coding Problems
 
+### [LeetCode](./practice/leetcode/) - [Profile](https://leetcode.com/u/Aleksei_Radchenkov/)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Aleksei_Radchenkov?theme=chartreuse&font=Single%20Day&ext=heatmap)
-- [ ] [LeetCode](./practice/leetcode/) - [Profile](https://leetcode.com/u/Aleksei_Radchenkov/)
-    * [ ] [Bit Manipulation](./practice/leetcode/bit_manipulation/):
+
+- [ ] [Bit Manipulation](./practice/leetcode/bit_manipulation/):
         + EASY: 13/48
         + MED.: 0/116
         + HARD: 0/83
