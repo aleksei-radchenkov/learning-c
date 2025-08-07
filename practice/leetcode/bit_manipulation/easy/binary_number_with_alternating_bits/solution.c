@@ -4,6 +4,8 @@
 
 bool hasAlternatingBits(int n)
 {
+    for (int l = -1; n; l = n & 1, n >>= 1) if((n & 1) == l) return 0;
+    return 1;
 }
 
 int main()
