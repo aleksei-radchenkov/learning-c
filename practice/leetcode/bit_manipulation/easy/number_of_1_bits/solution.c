@@ -5,7 +5,7 @@
 int hammingWeight(int n)
 {
     int c = 0;
-    for (int i=0; i<sizeof(int)*8; i++) if ((n >> i) & 1) c++;
+    for (int i = 0; i < sizeof(int) * 8; i++) if ((n >> i) & 1) c++;
     return c;
 }
 
@@ -21,5 +21,6 @@ int main()
     printf("Test 3: PASS\n\n");
 
     printf("Success!\n");
+
     return 0;
 }

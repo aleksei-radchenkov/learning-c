@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <assert.h>
 
-int singleNumber(int* nums, int numsSize) {
+int singleNumber(int* nums, int numsSize)
+{
     int n = 0;
     for (int i = 0; i < numsSize; i++){
         n ^= nums[i];
@@ -11,8 +12,8 @@ int singleNumber(int* nums, int numsSize) {
 
 int main()
 {
-    int nums_1[3] = {2,2,1};
-    int nums_2[5] = {4,1,2,1,2};
+    int nums_1[3] = {2, 2, 1};
+    int nums_2[5] = {4, 1, 2, 1, 2};
     int nums_3[1] = {1};
 
     assert(singleNumber(nums_1, 3) == 1);
@@ -25,4 +26,6 @@ int main()
     printf("Test 1: PASS\n\n");
 
     printf("Success!\n");
+
+    return 0;
 }

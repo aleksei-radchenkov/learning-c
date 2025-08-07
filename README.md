@@ -362,6 +362,16 @@ A list of learning resources I frequently use on my journey.
         + [X] [191. Number of 1 Bits](./practice/leetcode/bit_manipulation/easy/number_of_1_bits/) | EASY
         + [ ] [222. Count Complete Tree Nodes](./practice/leetcode/bit_manipulation/easy/count_complete_tree_nodes/) | EASY
         + [X] [231. Power of Two](./practice/leetcode/bit_manipulation/easy/power_of_two/) | EASY
+        + [ ] [268. Missing Number](./practice/leetcode/bit_manipulation/easy/missing_number)
+        + [ ] [338. Counting Bits](./practice/leetcode/bit_manipulation/easy/counting_bits)
+        + [ ] [342. Power of Four](./practice/leetcode/bit_manipulation/easy/power_of_four)
+        + [ ] [389. Find the Difference](./practice/leetcode/bit_manipulation/easy/find_the_difference)
+        + [ ] [401. Binary Watch](./practice/leetcode/bit_manipulation/easy/binary_watch)
+        + [ ] [405. Convert a Number to Hexadecimal](./practice/leetcode/bit_manipulation/easy/convert_a_number_to_hexadecimal)
+        + [ ] [461. Hamming Distance](./practice/leetcode/bit_manipulation/easy/hamming_distance)
+        + [ ] [476. Number Complement](./practice/leetcode/bit_manipulation/easy/number_complement)
+        + [ ] [645. Set Mismatch](./practice/leetcode/bit_manipulation/easy/set_mismatch)
+        + [ ] [693. Binary Number with Alternating Bits](./practice/leetcode/bit_manipulation/easy/binary_number_with_alternating_bits)
 
 ---
 
