@@ -351,12 +351,17 @@ A list of learning resources I frequently use on my journey.
 ### [LeetCode](./practice/leetcode/) - [Profile](https://leetcode.com/u/Aleksei_Radchenkov/)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Aleksei_Radchenkov?theme=chartreuse&font=Single%20Day&ext=heatmap)
 
-#### [ ] [Bit Manipulation](./practice/leetcode/bit_manipulation/):
+<details>
+<summary>
+<strong>[Bit Manipulation](./practice/leetcode/bit_manipulation/):</strong>
+
 | Difficulty | Completed | Total | Progress |
 | ---------- | --------- | ----- | -------- |
 | [Easy](./practice/leetcode/bit_manipulation/easy/)       | 13        | 48    | ![13/48](https://progress-bar.xyz/13/?scale=48\&width=100\&color=green)  |
 | [Medium](./practice/leetcode/bit_manipulation/medium/)     | 0         | 116   | ![0/116](https://progress-bar.xyz/0/?scale=116\&width=100\&color=yellow) |
 | [Hard](./practice/leetcode/bit_manipulation/hard/)       | 0         | 83    | ![0/83](https://progress-bar.xyz/0/?scale=83\&width=100\&color=red)      |
+
+</summary>
 
 - [X] [67. Add Binary](./practice/leetcode/bit_manipulation/easy/add_binary/) | EASY
 - [X] [136. Single Number](./practice/leetcode/bit_manipulation/easy/single_number/) | EASY
@@ -374,6 +379,8 @@ A list of learning resources I frequently use on my journey.
 - [X] [476/1009. Number Complement](./practice/leetcode/bit_manipulation/easy/number_complement) | EASY
 - [ ] [645. Set Mismatch](./practice/leetcode/bit_manipulation/easy/set_mismatch) | EASY
 - [X] [693. Binary Number with Alternating Bits](./practice/leetcode/bit_manipulation/easy/binary_number_with_alternating_bits) | EASY
+
+</details>
 
 ---
 
