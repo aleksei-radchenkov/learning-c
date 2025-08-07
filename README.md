@@ -349,6 +349,7 @@ A list of learning resources I frequently use on my journey.
 ## Coding Problems
 
 - [ ] [LeetCode](./practice/leetcode/) - [Profile](https://leetcode.com/u/Aleksei_Radchenkov/)
+    * ![Leetcode Stats](https://leetcard.jacoblin.cool/Aleksei_Radchenkov/)
     * EASY: 13/886
     * MED.: 0/1889
     * HARD: 0/857
