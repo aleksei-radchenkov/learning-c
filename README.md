@@ -351,28 +351,29 @@ A list of learning resources I frequently use on my journey.
 ### [LeetCode](./practice/leetcode/) - [Profile](https://leetcode.com/u/Aleksei_Radchenkov/)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Aleksei_Radchenkov?theme=chartreuse&font=Single%20Day&ext=heatmap)
 
-- [ ] [Bit Manipulation](./practice/leetcode/bit_manipulation/):
+#### [Bit Manipulation](./practice/leetcode/bit_manipulation/):
+| Difficulty | Completed | Total | Progress |
+| ---------- | --------- | ----- | -------- |
+| Easy       | 13        | 48    | ![13/48](https://progress-bar.dev/13/?scale=48\&width=100\&color=green)  |
+| Medium     | 0         | 116   | ![0/116](https://progress-bar.dev/0/?scale=116\&width=100\&color=yellow) |
+| Hard       | 0         | 83    | ![0/83](https://progress-bar.dev/0/?scale=83\&width=100\&color=red)      |
 
-	* **EASY: 13/48**
-	* **MED.: 0/116**
-	* **HARD: 0/83**
-
-	* [X] [67. Add Binary](./practice/leetcode/bit_manipulation/easy/add_binary/) | EASY
-	* [X] [136. Single Number](./practice/leetcode/bit_manipulation/easy/single_number/) | EASY
-	* [X] [190. Reverse Bits](./practice/leetcode/bit_manipulation/easy/reverse_bits/) | EASY
-	* [X] [191. Number of 1 Bits](./practice/leetcode/bit_manipulation/easy/number_of_1_bits/) | EASY
-	* [ ] [222. Count Complete Tree Nodes](./practice/leetcode/bit_manipulation/easy/count_complete_tree_nodes/) | EASY
-	* [X] [231. Power of Two](./practice/leetcode/bit_manipulation/easy/power_of_two/) | EASY
-	* [ ] [268. Missing Number](./practice/leetcode/bit_manipulation/easy/missing_number) | EASY
-	* [X] [338. Counting Bits](./practice/leetcode/bit_manipulation/easy/counting_bits) | EASY
-	* [X] [342. Power of Four](./practice/leetcode/bit_manipulation/easy/power_of_four) | EASY
-	* [X] [389. Find the Difference](./practice/leetcode/bit_manipulation/easy/find_the_difference) | EASY
-	* [ ] [401. Binary Watch](./practice/leetcode/bit_manipulation/easy/binary_watch) | EASY
-	* [ ] [405. Convert a Number to Hexadecimal](./practice/leetcode/bit_manipulation/easy/convert_a_number_to_hexadecimal) | EASY
-	* [X] [461/2220. Hamming Distance](./practice/leetcode/bit_manipulation/easy/hamming_distance) | EASY
-	* [X] [476/1009. Number Complement](./practice/leetcode/bit_manipulation/easy/number_complement) | EASY
-	* [ ] [645. Set Mismatch](./practice/leetcode/bit_manipulation/easy/set_mismatch) | EASY
-	* [X] [693. Binary Number with Alternating Bits](./practice/leetcode/bit_manipulation/easy/binary_number_with_alternating_bits) | EASY
+- [X] [67. Add Binary](./practice/leetcode/bit_manipulation/easy/add_binary/) | EASY
+- [X] [136. Single Number](./practice/leetcode/bit_manipulation/easy/single_number/) | EASY
+- [X] [190. Reverse Bits](./practice/leetcode/bit_manipulation/easy/reverse_bits/) | EASY
+- [X] [191. Number of 1 Bits](./practice/leetcode/bit_manipulation/easy/number_of_1_bits/) | EASY
+- [ ] [222. Count Complete Tree Nodes](./practice/leetcode/bit_manipulation/easy/count_complete_tree_nodes/) | EASY
+- [X] [231. Power of Two](./practice/leetcode/bit_manipulation/easy/power_of_two/) | EASY
+- [ ] [268. Missing Number](./practice/leetcode/bit_manipulation/easy/missing_number) | EASY
+- [X] [338. Counting Bits](./practice/leetcode/bit_manipulation/easy/counting_bits) | EASY
+- [X] [342. Power of Four](./practice/leetcode/bit_manipulation/easy/power_of_four) | EASY
+- [X] [389. Find the Difference](./practice/leetcode/bit_manipulation/easy/find_the_difference) | EASY
+- [ ] [401. Binary Watch](./practice/leetcode/bit_manipulation/easy/binary_watch) | EASY
+- [ ] [405. Convert a Number to Hexadecimal](./practice/leetcode/bit_manipulation/easy/convert_a_number_to_hexadecimal) | EASY
+- [X] [461/2220. Hamming Distance](./practice/leetcode/bit_manipulation/easy/hamming_distance) | EASY
+- [X] [476/1009. Number Complement](./practice/leetcode/bit_manipulation/easy/number_complement) | EASY
+- [ ] [645. Set Mismatch](./practice/leetcode/bit_manipulation/easy/set_mismatch) | EASY
+- [X] [693. Binary Number with Alternating Bits](./practice/leetcode/bit_manipulation/easy/binary_number_with_alternating_bits) | EASY
 
 ---
 
