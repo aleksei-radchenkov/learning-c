@@ -138,7 +138,7 @@ This section includes all courses in UNSW that I am taking that are taught in th
     * [X] Assignment 2 - Detective Academy
 </details>
 
-<details>a
+<details>
 <summary><strong>Interfaces</strong></summary>
 <a id="interfaces"></a>
 The roadmap for this topic is based on the book <a href="https://www.r-5.org/files/books/computers/languages/c/mod/David_R_Hanson-C_Interfaces_and_Implementations-EN.pdf">"Interfaces and Implementations" by David R. Hanson</a>.
@@ -234,7 +234,7 @@ The roadmap for this topic is based on the book <a href="https://booksite.elsevi
 - [ ] Socket Programming
 - [ ] Under the Hood
 - [ ] Domain Name Service
-- [ ] TCP Multi-person Chat Room Server
+- [ ] Project - TCP Multi-person Chat Room Server
 </details>
 
 <details>
@@ -246,8 +246,8 @@ The roadmap for this topic is based on the book <a href="https://mrajacse.wordpr
 - [ ] Cryptographic Protocols
 - [ ] Cryptographic Techniques
 - [ ] Cryptographic Algorithms
-- [ ] Project 1: Terminal-Based Secure Chat Application
-- [ ] Project 2: File Encryption & Signing Tool
+- [ ] Project 1 - Terminal-Based Secure Chat Application
+- [ ] Project 2 - File Encryption & Signing Tool
 </details>
 
 <details>
