@@ -4,9 +4,12 @@
 
 char findTheDifference(char *s, char *t)
 {
-    int st = strlen(t), ss = strlen(s), size = (ss > st) ? st : ss, c = 0;
+    int st = strlen(t), ss = strlen(s);
+    int size = (ss > st) ? st : ss, c = 0;
+
     for (int i = 0; i < size; i++) c ^= (t[i] ^ s[i]);
     c ^= (ss > st) ? s[size] : t[size];
+
     return (char)c;
 }
 

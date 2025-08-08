@@ -20,6 +20,7 @@ int reverseBits(int n)
 {
     int s = 0;
     for(int i = 0; i < sizeof(int) * 8; s <<= 1, s |= (n & 1), n >>= 1, i++);
+
     return s;
 }
 ```

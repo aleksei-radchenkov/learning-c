@@ -428,7 +428,7 @@ A list of learning resources I frequently use on my journey.
 
 | Difficulty | Completed | Total | Progress |
 | ---------- | --------- | ----- | -------- |
-| [Easy](./practice/leetcode/bit_manipulation/easy/)     | 13 | 48  | ![13/48](https://progress-bar.xyz/27/?scale=100&width=100&color=green) |
+| [Easy](./practice/leetcode/bit_manipulation/easy/)     | 14 | 48  | ![14/48](https://progress-bar.xyz/29/?scale=100&width=100&color=green) |
 | [Medium](./practice/leetcode/bit_manipulation/medium/) | 0  | 116 | ![0/116](https://progress-bar.xyz/0/?scale=100&width=100&color=yellow) |
 | [Hard](./practice/leetcode/bit_manipulation/hard/)     | 0  | 83  | ![0/83](https://progress-bar.xyz/0/?scale=100&width=100&color=red) |
 

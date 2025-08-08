@@ -5,6 +5,7 @@ int hammingDistance(int x, int y)
 {
     int c = 0, k = x ^ y;
     for (; k; k >>= 1) c += k & 1;
+
     return c;
 }
 

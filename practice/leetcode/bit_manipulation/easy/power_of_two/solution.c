@@ -6,6 +6,7 @@ bool isPowerOfTwo(int n)
 {
     int c = 0;
     for (int i = 0; i < sizeof(int) * 8; i++) if ((n >> i) & 1) c++;
+
     return c == 1 && n > 0;
 }
 

@@ -5,6 +5,7 @@
 
 char *toHex(int num)
 {
+    
 }
 
 int main()

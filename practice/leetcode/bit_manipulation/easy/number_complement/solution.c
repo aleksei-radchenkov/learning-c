@@ -4,8 +4,10 @@
 int findComplement(int num)
 {
     if (!num) return 1;
+
     int c = 0;
     for (int i = 0; num; num >>= 1, i++) c |= !(num & 1) << i;
+
     return c;
 }
 
