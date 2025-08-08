@@ -34,7 +34,7 @@ Welcome to my Learning C repository. This is where I will document my journey in
   		- [Easy](#leetcode-bit-manipulation-easy)
 	    - [Medium](#leetcode-bit-manipulation-medium)
 	    - [Hard](#leetcode-bit-manipulation-hard)
-- [Projects](#projects-showcase)
+- [Projects Showcase](#projects-showcase)
 
 ---
 
@@ -427,9 +427,9 @@ A list of learning resources I frequently use on my journey.
 
 | Difficulty | Completed | Total | Progress |
 | ---------- | --------- | ----- | -------- |
-| [Easy](./practice/leetcode/bit_manipulation/easy/) | 13 | 48 | ![13/48](https://progress-bar.xyz/13/?scale=48\&width=100\&color=green) |
-| [Medium](./practice/leetcode/bit_manipulation/medium/) | 0 | 116 | ![0/116](https://progress-bar.xyz/0/?scale=116\&width=100\&color=yellow) |
-| [Hard](./practice/leetcode/bit_manipulation/hard/) | 0 | 83 | ![0/83](https://progress-bar.xyz/0/?scale=83\&width=100\&color=red) |
+| [Easy](./practice/leetcode/bit_manipulation/easy/)     | 13 | 48  | ![13/48](https://progress-bar.xyz/27/?scale=100&width=100&color=green) |
+| [Medium](./practice/leetcode/bit_manipulation/medium/) | 0  | 116 | ![0/116](https://progress-bar.xyz/0/?scale=100&width=100&color=yellow) |
+| [Hard](./practice/leetcode/bit_manipulation/hard/)     | 0  | 83  | ![0/83](https://progress-bar.xyz/0/?scale=100&width=100&color=red) |
 
 <details>
 <summary><strong>Easy</strong> - <a href="./practice/leetcode/bit_manipulation/easy/">Go to Directory</a></summary>
@@ -474,4 +474,4 @@ Coming soon...
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| TODO | TODO | TODO |
+| TODO    | TODO        | TODO   |
