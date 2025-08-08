@@ -442,7 +442,7 @@ A list of learning resources I frequently use on my journey.
 - [X] [191. Number of 1 Bits](./practice/leetcode/bit_manipulation/easy/number_of_1_bits/)
 - [ ] [222. Count Complete Tree Nodes](./practice/leetcode/bit_manipulation/easy/count_complete_tree_nodes/)
 - [X] [231. Power of Two](./practice/leetcode/bit_manipulation/easy/power_of_two/)
-- [ ] [268. Missing Number](./practice/leetcode/bit_manipulation/easy/missing_number)
+- [X] [268. Missing Number](./practice/leetcode/bit_manipulation/easy/missing_number)
 - [X] [338. Counting Bits](./practice/leetcode/bit_manipulation/easy/counting_bits)
 - [X] [342. Power of Four](./practice/leetcode/bit_manipulation/easy/power_of_four)
 - [X] [389. Find the Difference](./practice/leetcode/bit_manipulation/easy/find_the_difference)
