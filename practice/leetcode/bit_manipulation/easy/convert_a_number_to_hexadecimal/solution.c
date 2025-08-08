@@ -3,9 +3,8 @@
 #include <string.h>
 #include <assert.h>
 
-char *toHex(int num)
+char* toHex(int num)
 {
-    
 }
 
 int main()
