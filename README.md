@@ -1,6 +1,28 @@
 # Learning C - My Journey into C Programming
 Welcome to my Learning C repository. This is where I will document my journey into C programming throughout the years, from the basics to more advanced concepts. Here, you'll find resources I'm using, books I read, projects I'm building, problems I'm solving, challenges I face, and my progress notes.
 
+<br>
+
+[![Repo Views](https://komarev.com/ghpvc/?username=aleksei-radchenkov-learning-c&label=REPO+VIEWS&color=blueviolet&style=for-the-badge)](https://github.com/aleksei-radchenkov/learning-c)
+[![Last Commit](https://img.shields.io/github/last-commit/aleksei-radchenkov/learning-c?style=for-the-badge)](https://github.com/aleksei-radchenkov/learning-c/commits)
+[![Repo Size](https://img.shields.io/github/repo-size/aleksei-radchenkov/learning-c?style=for-the-badge)](https://github.com/aleksei-radchenkov/learning-c)
+[![Languages](https://img.shields.io/github/languages/count/aleksei-radchenkov/learning-c?style=for-the-badge)](https://github.com/aleksei-radchenkov/learning-c)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://github.com/aleksei-radchenkov/learning-c/blob/main/LICENSE)
+<br>
+[![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
+[![Clang](https://img.shields.io/badge/Clang-%23f34b7d.svg?style=for-the-badge&logo=llvm&logoColor=white)](https://clang.llvm.org/)
+[![GDB](https://img.shields.io/badge/GDB-%230099CC?style=for-the-badge)](https://www.sourceware.org/gdb/)
+[![Makefile](https://img.shields.io/badge/Makefile-%231E90FF?style=for-the-badge&logo=gnu)](https://www.gnu.org/software/make/manual/make.html)
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+[![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
+[![Raylib](https://img.shields.io/badge/Raylib-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black)](https://www.raylib.com/)
+[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)](https://www.kernel.org/)
+[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
+<br>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aleksei-radchenkov)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06)](https://leetcode.com/u/Aleksei_Radchenkov/)
+[![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/en/profile/10500547)
+
 ---
 
 ## Contents
@@ -35,6 +57,7 @@ Welcome to my Learning C repository. This is where I will document my journey in
 	        - [Medium](#leetcode-bit-manipulation-medium)
 	        - [Hard](#leetcode-bit-manipulation-hard)
 - [Projects Showcase](#projects-showcase)
+- [License](#license)
 
 ---
 
@@ -157,7 +180,7 @@ The roadmap for this topic is based on the book <a href="https://www.r-5.org/fil
 - [ ] Low-Level Strings
 - [ ] High-Level Strings
 - [ ] Extended-Precision Arithmetic
-- [ ] Arbitary-Precision Arithmetic
+- [ ] Arbitrary-Precision Arithmetic
 - [ ] Multiple-Precision Arithmetic
 - [ ] Threads
 - [ ] Project - A reusable C library/toolkit for arbitrary and multiple-precision arithmetic
@@ -376,7 +399,7 @@ A list of learning resources I frequently use on my journey.
 <a id="books"></a>
 
 - [ ] ["C A Reference Manual" by Samuel P. Harbison III and Guy L. Steele Jr.](https://savedparadigms.wordpress.com/wp-content/uploads/2014/09/harbison-s-p-steele-g-l-c-a-reference-manual-5th-ed.pdf)
-- [ ] ["C Programming, A Modern Apporach" by K. N. King](https://dn790000.ca.archive.org/0/items/c-programming-a-modern-approach-2nd-ed-c-89-c-99-king-by/C%20Programming%20-%20A%20Modern%20Approach%20-%202nd_Ed%28C89%2C%20c99%29%20-%20King%20by%20.pdf)
+- [ ] ["C Programming, A Modern Apporoach" by K. N. King](https://dn790000.ca.archive.org/0/items/c-programming-a-modern-approach-2nd-ed-c-89-c-99-king-by/C%20Programming%20-%20A%20Modern%20Approach%20-%202nd_Ed%28C89%2C%20c99%29%20-%20King%20by%20.pdf)
 - [ ] ["Functional C" by Pieter Hartel and Henk Muller](https://ris.utwente.nl/ws/portalfiles/portal/5128727/book.pdf)
 - [ ] ["Problem Solving and Program Design in C" by Jeri R. Hanly and Elliot B. Koffman](https://gooliusboozler.neocities.org/Problem%20Solving%20and%20Program%20Design%20in%20C%208th%20Edition%20-%20Jeri%20Hanly%20-%20Pearson.pdf)
 - [ ] ["The C Programming Language" by Brian W. Kernighan and Denis M. Ritchie](https://colorcomputerarchive.com/repo/Documents/Books/The%20C%20Programming%20Language%20%28Kernighan%20Ritchie%29.pdf)
@@ -476,3 +499,10 @@ Coming soon...
 | Project | Description | Status |
 |---------|-------------|--------|
 | TODO    | TODO        | TODO   |
+
+---
+
+## License
+
+All code in this repo is licensed under the [MIT License](./LICENSE).  
+You are free to use, copy, modify, and distribute this repository for educational or personal purposes.
