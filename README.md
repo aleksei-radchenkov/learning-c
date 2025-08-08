@@ -443,7 +443,7 @@ A list of learning resources I frequently use on my journey.
 
 ### [LeetCode](./practice/leetcode/) - [Profile](https://leetcode.com/u/Aleksei_Radchenkov/)
 <a id="leetcode"></a>
-![LeetCode Stats](https://leetcard.jacoblin.cool/Aleksei_Radchenkov?theme=chartreuse&font=Single%20Day&ext=heatmap)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Aleksei_Radchenkov?theme=chartreuse&font=Single%20Day&ext=heatmap)](https://leetcode.com/u/Aleksei_Radchenkov/)
 
 <details>
 <summary><strong>Bit Manipulation</strong> - <a href="./practice/leetcode/bit_manipulation/">Go to Directory</a></summary>
