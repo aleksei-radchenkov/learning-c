@@ -3,7 +3,10 @@
 
 int numberOfSteps(int num)
 {
+    int c = 0;
+    for (; num; num >>= 1) c += 1 + (num & 1);
 
+    return (c) ? c - 1 : c;
 }
 
 int main()

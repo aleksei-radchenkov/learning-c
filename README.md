@@ -451,7 +451,7 @@ A list of learning resources I frequently use on my journey.
 
 | Difficulty | Completed | Total | Progress |
 | ---------- | --------- | ----- | -------- |
-| [Easy](./practice/leetcode/bit_manipulation/easy/)     | 14 | 48  | ![14/48](https://progress-bar.xyz/29/?scale=100&width=100&color=green) |
+| [Easy](./practice/leetcode/bit_manipulation/easy/)     | 15 | 48  | ![15/48](https://progress-bar.xyz/31/?scale=100&width=100&color=green) |
 | [Medium](./practice/leetcode/bit_manipulation/medium/) | 0  | 116 | ![0/116](https://progress-bar.xyz/0/?scale=100&width=100&color=yellow) |
 | [Hard](./practice/leetcode/bit_manipulation/hard/)     | 0  | 83  | ![0/83](https://progress-bar.xyz/0/?scale=100&width=100&color=red) |
 
@@ -480,7 +480,7 @@ A list of learning resources I frequently use on my journey.
 - [ ] [832. Flipping an Image](./practice/leetcode/bit_manipulation/easy/flipping_an_image)
 - [ ] [868. Binary Gap](./practice/leetcode/bit_manipulation/easy/binary_gap)
 - [ ] [1018. Binary Prefix Divisible By 5](./practice/leetcode/bit_manipulation/easy/binary_prefix_divisible_by_5)
-- [ ] [1342. Number of Steps to Reduce a Number to Zero](./practice/leetcode/bit_manipulation/easy/number_of_steps_to_reduce_a_number_to_zero)
+- [X] [1342. Number of Steps to Reduce a Number to Zero](./practice/leetcode/bit_manipulation/easy/number_of_steps_to_reduce_a_number_to_zero)
 - [ ] [1356. Sort Integers by The Number of 1 Bits](./practice/leetcode/bit_manipulation/easy/sort_integers_by_the_number_of_1_bits)
 - [ ] [1486. XOR Operation in an Array](./practice/leetcode/bit_manipulation/easy/xor_operation_in_an_array)
 - [ ] [1684. Count the Number of Consistent Strings](./practice/leetcode/bit_manipulation/easy/count_the_number_of_consistent_strings)
